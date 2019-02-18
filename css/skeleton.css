@@ -52,7 +52,7 @@
 @media (min-width: 550px) {
   .container {
     width: 80%; }
-  .column,
+  .columns,
   .one.column,
   .one.columns                    { width: 33.333%; }
   .two.columns                    { width: 66.666%; }
@@ -183,7 +183,7 @@ pre > code {  display: block;  padding: 1rem 1.5rem;  white-space: pre; }
 
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-th,td {  padding: 12px 15px;  text-align: left;
+th,td {  padding: 12px 15px;  text-align: center;
   border-bottom: 1px solid #E1E1E1; }
 th:first-child,td:first-child {  padding-left: 0; }
 th:last-child,td:last-child {  padding-right: 0; }
