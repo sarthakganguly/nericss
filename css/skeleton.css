@@ -163,7 +163,7 @@ input[type="password"]:focus,
 textarea:focus,select:focus {border: 1px solid #33C3F0;outline: 0; }
 label,legend {display: block;margin-bottom: .5rem;font-weight: 600; }
 fieldset {padding: 0;border-width: 0; }
-input[type="checkbox"],input[type="radio"] {display: inline; }
+input[type="checkbox"],input[type="radio"] {display: inline; margin-right:0.5rem;}
 label > .label-body {display: inline-block;margin-left: .5rem;font-weight: normal; }
 
 /* Lists
@@ -200,6 +200,7 @@ pre,blockquote,dl,figure,table,p,ul,ol,form {  margin-bottom: 2.5rem; }
 .u-max-full-width {max-width: 100%;box-sizing: border-box; }
 .u-pull-right {float: right; }
 .u-pull-left {float: left; }
+.u-shift-right{margin-right: 1rem;}
 
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
