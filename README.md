@@ -3,13 +3,17 @@
 
 This is a work in progress. While the final product is going to be an improvement over what you see today - I can assure you that even with the features available today...it works.
 
+![nericss landing page screenshot](./images/screenshots/landing.png)
+
 The word *Neri* in Bengali loosely translates to 'without fur'. The original derivative is from 'Nera' which means hairless. Typically, the term is associated with the street dogs that are ubiquitous in Bengal. They are low maintenance, genetically strong and survive on almost anything.
 
 That is precisely what I intend a CSS framework to be.
 
+![nericss headings and elements](./images/screenshots/heading.png)
+
 Having used many similar frameworks in the past, I have come to realise the pain of using bloated stylesheets and JavaScript frameworks. The compatibility issues, the pain of overriding styles and animations - they are a frontend developer's nightmare.
 
-This is why I hope to turn a new leaf and create something that are 
+This is why I hope to turn a new leaf and create something that are
 - easy to learn and use
 - very easy to maintain
 - extremely lightweight
