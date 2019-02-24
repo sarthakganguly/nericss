@@ -26,5 +26,7 @@ I will be releasing a full release note and help guides for how to use and custo
 I would love your contributions and criticism for this work. You are free to submit issues and bug fixes as well. Let's work together.
 
 Sarthak Ganguly
+
 [The Code Post](https://www.thecodepost.org)
+
 [thecodepost](https://www.twitter.com/thecodepost)
