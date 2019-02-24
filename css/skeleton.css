@@ -28,6 +28,9 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+html{
+  scroll-behavior: smooth;
+}
 .container {
   position: relative;
   width: 100%;
