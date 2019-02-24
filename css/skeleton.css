@@ -51,7 +51,7 @@ html{
     padding: 0; }
 }
 
-/* For devices larger than 550px */
+/* For devices larger than 550pxrow */
 @media (min-width: 550px) {
   .container {
     width: 80%; }
@@ -59,11 +59,9 @@ html{
   .one.column,
   .one.columns                    { width: 33.333%; }
   .two.columns                    { width: 66.666%; }
-  .three.columns                 { width: 100%; margin-left: 0; }
-
+  .three.columns                  { width: 100%; margin-left: 0; }
   .one-third.column               { width: 32.333%; }
   .two-thirds.column              { width: 65.666%; }
-
   .one-half.column                { width: 48%; }
 
 }
