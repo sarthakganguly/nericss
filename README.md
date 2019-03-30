@@ -7,7 +7,7 @@ This is a work in progress. While the final product is going to be an improvemen
 
 The word *Neri* in Bengali loosely translates to 'without fur'. The original derivative is from 'Nera' which means hairless. Typically, the term is associated with the street dogs that are ubiquitous in Bengal. They are low maintenance, genetically strong and survive on almost anything.
 
-That is precisely what I intend a CSS framework to be.
+That is precisely what I intend a CSS framework to be. Not that this is. But any derivative works on this should try to follow the same principles. 
 
 ![nericss headings and elements](./images/screenshots/heading.png)
 
@@ -23,7 +23,7 @@ This is why I hope to turn a new leaf and create something that are
 
 It is important to know what *neriCSS* is not. It is not a full fledged CSS framework, but a starter framework that gives you the basic tools for you to get started. New features will be added (animations for instance), but my intention is not to be like [bulma](https://bulma.io/).
 
-I have used [Skeleton](http://getskeleton.com) as my boiletplate, but there are major changes that are included. For instance, the grid functions pretty differently from that of skeleton.
+I have used [Skeleton](http://getskeleton.com) as my boilerplate, but there are major changes that are included. For instance, the grid functions pretty differently from that of skeleton.
 
 I will be releasing a full release note and help guides for how to use and customize nerCSS in your projects. But to get started, you can fork this project and check out the index page for the real implementations.
 
